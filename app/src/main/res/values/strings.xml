@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework Week Two  Day 1</string>
+    <string name="hint_pic">Take a Picture</string>
+    <string name="hint_person_info">Person Info</string>
+    <string name="hint_make_list">Make List</string>
+    <string name="hint_person_1">Person 1</string>
+    <string name="hint_person_2">Person 2</string>
+    <string name="hint_person_3">Person 3</string>
+    <string name="hintperson_4">Person 4</string>
+    <string name="hint_emi_calculator">EMI calculator</string>
+</resources>
